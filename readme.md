@@ -18,7 +18,7 @@ Key features:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/news-summarizer.git
+   git clone https://github.com/Artempsl/week2d4
    cd news-summarizer
 Create a virtual environment (recommended):
 
